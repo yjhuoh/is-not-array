@@ -1,7 +1,7 @@
 {
   "name": "is-not-array",
   "description": "isNotArray helper for older browsers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/yjhuoh/is-not-array.git"
@@ -26,23 +26,6 @@
     "url": "http://github.com/yjhuoh"
   },
   "license": "MIT",
-  "testling": {
-    "files": "index.spec.js",
-    "harness": "mocha-bdd",
-    "browsers": [
-      "ie/8..latest",
-      "firefox/17..latest",
-      "firefox/nightly",
-      "chrome/22..latest",
-      "chrome/canary",
-      "opera/12..latest",
-      "opera/next",
-      "safari/5.1..latest",
-      "ipad/6.0..latest",
-      "iphone/6.0..latest",
-      "android-browser/4.2..latest"
-    ]
-  },
   "scripts": {
     "test": "node_modules/mocha/bin/mocha *.spec.js"
   }
