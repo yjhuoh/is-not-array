@@ -1,0 +1,10 @@
+machine:
+  node:
+  version: 0.10.43
+
+dependenies:
+  pre:
+    - npm install
+test:
+  override:
+    - npm test
