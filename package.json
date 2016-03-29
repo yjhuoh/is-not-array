@@ -1,7 +1,7 @@
 {
   "name": "is-not-array",
   "description": "isNotArray helper for older browsers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/yjhuoh/is-not-array.git"
@@ -27,6 +27,6 @@
   },
   "license": "MIT",
   "scripts": {
-    "test": "node_modules/mocha/bin/mocha *.spec.js"
+    "test": "mocha *.spec.js"
   }
 }
