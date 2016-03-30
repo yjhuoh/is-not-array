@@ -26,12 +26,6 @@ $ npm install is-not-array
 Then bundle for the browser with
 [browserify](https://github.com/substack/browserify).
 
-With [component](http://component.io) do
-
-```bash
-$ component install yjhuoh/is-not-array
-```
-
 ## License
 
 (MIT)

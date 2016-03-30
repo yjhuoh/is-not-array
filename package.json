@@ -1,7 +1,7 @@
 {
   "name": "is-not-array",
   "description": "isNotArray helper for older browsers",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": {
     "type": "git",
     "url": "git://github.com/yjhuoh/is-not-array.git"
